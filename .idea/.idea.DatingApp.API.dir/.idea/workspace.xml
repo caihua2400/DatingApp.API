@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9f77db9-4ae4-4565-bb54-ed8ce467c447" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Data/DataContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Value.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controllers/ValuesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/ValuesController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp.API.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingApp.API.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingApp.API.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/DatingApp.API.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/DatingApp.API.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/DatingApp.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/DatingApp.API.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/DatingApp.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/DatingApp.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/DatingApp.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/DatingApp.API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/DatingApp.API.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/DatingApp.API.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/DatingApp.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/DatingApp.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/DatingApp.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/DatingApp.API.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,40 +18,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+            <state relative-caret-position="279">
+              <caret line="48" column="25" lean-forward="true" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
               <folding>
-                <marker date="1565601902690" expanded="false" signature="6:465" ph="..." />
-                <marker date="1565601902690" expanded="true" signature="490:1584" ph="{...}" />
-                <marker date="1565601902690" expanded="true" signature="517:1582" ph="{...}" />
-                <marker date="1565601902690" expanded="true" signature="576:639" ph="{...}" />
-                <marker date="1565601902690" expanded="true" signature="862:1108" ph="{...}" />
-                <marker date="1565601902690" expanded="true" signature="1296:1576" ph="{...}" />
-                <marker date="1565601902690" expanded="true" signature="1343:1420" ph="{...}" />
-                <marker date="1565601902690" expanded="true" signature="1437:1498" ph="{...}" />
+                <marker date="1566003478896" expanded="false" signature="6:465" ph="..." />
+                <marker date="1566003478896" expanded="true" signature="490:1698" ph="{...}" />
+                <marker date="1566003478896" expanded="true" signature="517:1696" ph="{...}" />
+                <marker date="1566003478896" expanded="true" signature="576:639" ph="{...}" />
+                <marker date="1566003478896" expanded="true" signature="862:1140" ph="{...}" />
+                <marker date="1566003478896" expanded="true" signature="1328:1690" ph="{...}" />
+                <marker date="1566003478896" expanded="true" signature="1375:1452" ph="{...}" />
+                <marker date="1566003478896" expanded="true" signature="1469:1530" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Controllers/ValuesController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="31" column="86" lean-forward="true" selection-start-line="31" selection-start-column="86" selection-end-line="31" selection-end-column="86" />
+              <caret line="31" column="86" selection-start-line="31" selection-start-column="86" selection-end-line="31" selection-end-column="86" />
               <folding>
-                <marker date="1565604841462" expanded="false" signature="6:191" ph="..." />
-                <marker date="1565604841462" expanded="true" signature="228:1282" ph="{...}" />
-                <marker date="1565604841462" expanded="true" signature="333:1280" ph="{...}" />
-                <marker date="1565604841462" expanded="true" signature="448:508" ph="{...}" />
-                <marker date="1565604841462" expanded="true" signature="605:689" ph="{...}" />
-                <marker date="1565604841462" expanded="true" signature="802:909" ph="{...}" />
-                <marker date="1565604841462" expanded="true" signature="1006:1026" ph="{...}" />
-                <marker date="1565604841462" expanded="true" signature="1138:1158" ph="{...}" />
-                <marker date="1565604841462" expanded="true" signature="1254:1274" ph="{...}" />
+                <marker date="1565605030401" expanded="true" signature="228:1282" ph="{...}" />
+                <marker date="1565605030401" expanded="true" signature="333:1280" ph="{...}" />
+                <marker date="1565605030401" expanded="true" signature="448:508" ph="{...}" />
+                <marker date="1565605030401" expanded="true" signature="605:689" ph="{...}" />
+                <marker date="1565605030401" expanded="true" signature="802:909" ph="{...}" />
+                <marker date="1565605030401" expanded="true" signature="1006:1026" ph="{...}" />
+                <marker date="1565605030401" expanded="true" signature="1138:1158" ph="{...}" />
+                <marker date="1565605030401" expanded="true" signature="1254:1274" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -75,8 +71,8 @@
             <state relative-caret-position="30">
               <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
               <folding>
-                <marker date="1565601170311" expanded="true" signature="30:146" ph="{...}" />
-                <marker date="1565601170311" expanded="true" signature="55:144" ph="{...}" />
+                <marker date="1565605030404" expanded="true" signature="30:146" ph="{...}" />
+                <marker date="1565605030404" expanded="true" signature="55:144" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -88,10 +84,10 @@
             <state relative-caret-position="120">
               <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
               <folding>
-                <marker date="1565601677921" expanded="true" signature="6:64" ph="..." />
-                <marker date="1565601677921" expanded="true" signature="94:320" ph="{...}" />
-                <marker date="1565601677921" expanded="true" signature="137:318" ph="{...}" />
-                <marker date="1565601677921" expanded="true" signature="225:262" ph="{...}" />
+                <marker date="1565605030402" expanded="true" signature="6:64" ph="..." />
+                <marker date="1565605030402" expanded="true" signature="94:320" ph="{...}" />
+                <marker date="1565605030402" expanded="true" signature="137:318" ph="{...}" />
+                <marker date="1565605030402" expanded="true" signature="225:262" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -112,10 +108,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Models/Value.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Data/DataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/Value.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -124,8 +120,8 @@
         <option value="$PROJECT_DIR$/Models/Value.cs" />
         <option value="$PROJECT_DIR$/Data/DataContext.cs" />
         <option value="$PROJECT_DIR$/appsettings.json" />
-        <option value="$PROJECT_DIR$/Startup.cs" />
         <option value="$PROJECT_DIR$/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/Startup.cs" />
       </list>
     </option>
   </component>
@@ -141,18 +137,27 @@
     <option name="x" value="34" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="801" />
+    <option name="height" value="806" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DatingApp.API" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,12 +222,13 @@
       <option name="presentableId" value="Default" />
       <updated>1565599623584</updated>
       <workItem from="1565599627315" duration="2397000" />
-      <workItem from="1565604206874" duration="381000" />
+      <workItem from="1565604206874" duration="929000" />
+      <workItem from="1566003286001" duration="354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2778000" />
+    <option name="totallyTimeSpent" value="3680000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -234,10 +240,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="23" width="1440" height="801" extended-state="0" />
+    <frame x="34" y="23" width="1440" height="808" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -253,7 +259,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="REST Client" order="12" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.32863188" />
+      <window_info anchor="bottom" id="Terminal" order="13" visible="true" weight="0.3282123" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="15" weight="0.32863188" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -277,23 +283,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
-          <folding>
-            <marker date="1565601902690" expanded="false" signature="6:465" ph="..." />
-            <marker date="1565601902690" expanded="true" signature="490:1584" ph="{...}" />
-            <marker date="1565601902690" expanded="true" signature="517:1582" ph="{...}" />
-            <marker date="1565601902690" expanded="true" signature="576:639" ph="{...}" />
-            <marker date="1565601902690" expanded="true" signature="862:1108" ph="{...}" />
-            <marker date="1565601902690" expanded="true" signature="1296:1576" ph="{...}" />
-            <marker date="1565601902690" expanded="true" signature="1343:1420" ph="{...}" />
-            <marker date="1565601902690" expanded="true" signature="1437:1498" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Properties/launchSettings.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -306,8 +295,8 @@
         <state relative-caret-position="30">
           <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
           <folding>
-            <marker date="1565601170311" expanded="true" signature="30:146" ph="{...}" />
-            <marker date="1565601170311" expanded="true" signature="55:144" ph="{...}" />
+            <marker date="1565605030404" expanded="true" signature="30:146" ph="{...}" />
+            <marker date="1565605030404" expanded="true" signature="55:144" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -317,10 +306,10 @@
         <state relative-caret-position="120">
           <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
           <folding>
-            <marker date="1565601677921" expanded="true" signature="6:64" ph="..." />
-            <marker date="1565601677921" expanded="true" signature="94:320" ph="{...}" />
-            <marker date="1565601677921" expanded="true" signature="137:318" ph="{...}" />
-            <marker date="1565601677921" expanded="true" signature="225:262" ph="{...}" />
+            <marker date="1565605030402" expanded="true" signature="6:64" ph="..." />
+            <marker date="1565605030402" expanded="true" signature="94:320" ph="{...}" />
+            <marker date="1565605030402" expanded="true" signature="137:318" ph="{...}" />
+            <marker date="1565605030402" expanded="true" signature="225:262" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -335,17 +324,33 @@
     <entry file="file://$PROJECT_DIR$/Controllers/ValuesController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="31" column="86" lean-forward="true" selection-start-line="31" selection-start-column="86" selection-end-line="31" selection-end-column="86" />
+          <caret line="31" column="86" selection-start-line="31" selection-start-column="86" selection-end-line="31" selection-end-column="86" />
           <folding>
-            <marker date="1565604841462" expanded="false" signature="6:191" ph="..." />
-            <marker date="1565604841462" expanded="true" signature="228:1282" ph="{...}" />
-            <marker date="1565604841462" expanded="true" signature="333:1280" ph="{...}" />
-            <marker date="1565604841462" expanded="true" signature="448:508" ph="{...}" />
-            <marker date="1565604841462" expanded="true" signature="605:689" ph="{...}" />
-            <marker date="1565604841462" expanded="true" signature="802:909" ph="{...}" />
-            <marker date="1565604841462" expanded="true" signature="1006:1026" ph="{...}" />
-            <marker date="1565604841462" expanded="true" signature="1138:1158" ph="{...}" />
-            <marker date="1565604841462" expanded="true" signature="1254:1274" ph="{...}" />
+            <marker date="1565605030401" expanded="true" signature="228:1282" ph="{...}" />
+            <marker date="1565605030401" expanded="true" signature="333:1280" ph="{...}" />
+            <marker date="1565605030401" expanded="true" signature="448:508" ph="{...}" />
+            <marker date="1565605030401" expanded="true" signature="605:689" ph="{...}" />
+            <marker date="1565605030401" expanded="true" signature="802:909" ph="{...}" />
+            <marker date="1565605030401" expanded="true" signature="1006:1026" ph="{...}" />
+            <marker date="1565605030401" expanded="true" signature="1138:1158" ph="{...}" />
+            <marker date="1565605030401" expanded="true" signature="1254:1274" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="48" column="25" lean-forward="true" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+          <folding>
+            <marker date="1566003478896" expanded="false" signature="6:465" ph="..." />
+            <marker date="1566003478896" expanded="true" signature="490:1698" ph="{...}" />
+            <marker date="1566003478896" expanded="true" signature="517:1696" ph="{...}" />
+            <marker date="1566003478896" expanded="true" signature="576:639" ph="{...}" />
+            <marker date="1566003478896" expanded="true" signature="862:1140" ph="{...}" />
+            <marker date="1566003478896" expanded="true" signature="1328:1690" ph="{...}" />
+            <marker date="1566003478896" expanded="true" signature="1375:1452" ph="{...}" />
+            <marker date="1566003478896" expanded="true" signature="1469:1530" ph="{...}" />
           </folding>
         </state>
       </provider>
