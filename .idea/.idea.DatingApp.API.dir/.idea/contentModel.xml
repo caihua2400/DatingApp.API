@@ -6,15 +6,23 @@
       <e p="appsettings.json" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="Controllers" t="Include">
+        <e p="AuthController.cs" t="Include" />
         <e p="ValuesController.cs" t="Include" />
       </e>
       <e p="Data" t="Include">
+        <e p="AuthRepository.cs" t="Include" />
         <e p="DataContext.cs" t="Include" />
+        <e p="IAuthRepository.cs" t="Include" />
       </e>
       <e p="DatingApp.API.csproj" t="IncludeRecursive" />
+      <e p="Dtos" t="Include">
+        <e p="UserForRegisterDto.cs" t="Include" />
+      </e>
       <e p="Migrations" t="Include">
         <e p="20190812093033_InitialValues.cs" t="Include" />
         <e p="20190812093033_InitialValues.Designer.cs" t="Include" />
+        <e p="20190817041150_UserEntity.cs" t="Include" />
+        <e p="20190817041150_UserEntity.Designer.cs" t="Include" />
         <e p="DataContextModelSnapshot.cs" t="Include" />
       </e>
       <e p="Models" t="Include">
