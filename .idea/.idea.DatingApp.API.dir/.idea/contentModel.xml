@@ -16,6 +16,7 @@
       </e>
       <e p="DatingApp.API.csproj" t="IncludeRecursive" />
       <e p="Dtos" t="Include">
+        <e p="UserForLoginDto.cs" t="Include" />
         <e p="UserForRegisterDto.cs" t="Include" />
       </e>
       <e p="Migrations" t="Include">
