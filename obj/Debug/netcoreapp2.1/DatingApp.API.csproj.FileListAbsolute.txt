@@ -4,7 +4,6 @@
 /Users/huacai/Desktop/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.dll
 /Users/huacai/Desktop/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.pdb
 /Users/huacai/Desktop/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csprojAssemblyReference.cache
-/Users/huacai/Desktop/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csproj.CoreCompileInputs.cache
 /Users/huacai/Desktop/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cache
 /Users/huacai/Desktop/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cs
 /Users/huacai/Desktop/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfoInputs.cache
@@ -12,3 +11,6 @@
 /Users/huacai/Desktop/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorTargetAssemblyInfo.cache
 /Users/huacai/Desktop/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.dll
 /Users/huacai/Desktop/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.pdb
+/Users/huacai/Desktop/DatingApp.API/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/huacai/Desktop/DatingApp.API/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/huacai/Desktop/DatingApp.API/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
