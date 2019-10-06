@@ -4,6 +4,7 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
+using AutoMapper;
 using DatingApp.API.Data;
 using DatingApp.API.Helpers;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -35,7 +36,12 @@ namespace DatingApp.API
         public void ConfigureServices(IServiceCollection services)
         {
             
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1).
+                AddJsonOptions(Options =>
+                    {
+                        Options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
+                    });
+            services.AddScoped<IDatingRepository, DatingRepository>();
             services.AddCors(options =>
             {
                 options.AddPolicy("CorsPolicy",
@@ -44,6 +50,7 @@ namespace DatingApp.API
                         .AllowAnyHeader()
                         .AllowCredentials() );
             });
+            services.AddAutoMapper(typeof(DatingRepository).Assembly);
             services.AddDbContext<DataContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddScoped<IAuthRepository, AuthRepository>();
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>

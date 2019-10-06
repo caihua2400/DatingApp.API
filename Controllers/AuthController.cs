@@ -32,12 +32,7 @@ namespace DatingApp.API.Controllers
         {
 
 
-            /*
-            if (!ModelState.IsValid)
-            {
-                return BadRequest();
-            }
-            */
+            
              userForRegisterDto.UserName = userForRegisterDto.UserName.ToLower();
             if (await _authRepository.UserExist(userForRegisterDto.UserName))
             {
@@ -58,7 +53,7 @@ namespace DatingApp.API.Controllers
         [HttpPost("login")]
         public async Task<IActionResult> LogIn(UserForLoginDto userForLoginDto)
         {
-            //throw new Exception("computer says NO!!");
+              
             
                 var userFromRepo = await _authRepository.Login(userForLoginDto.Username.ToLower(), userForLoginDto.Password);
                 if (userFromRepo == null)
