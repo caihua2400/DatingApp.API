@@ -1,27 +1,26 @@
 ﻿<Properties StartupConfiguration="{1063BE3E-82E8-4580-A834-E274033954AC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Data/IDatingRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/AuthController.cs">
     <Files>
-      <File FileName="Controllers/AuthController.cs" Line="88" Column="12" />
+      <File FileName="Controllers/AuthController.cs" Line="55" Column="1" />
       <File FileName="Startup.cs" />
       <File FileName="Models/User.cs" />
       <File FileName="Models/Photo.cs" />
       <File FileName="Data/DataContext.cs" />
-      <File FileName="Migrations/20191005111654_ExtendedUserClass.cs" />
       <File FileName="Data/UserSeedData.json" />
-      <File FileName="Data/Seed.cs" Line="27" Column="43" />
+      <File FileName="Data/Seed.cs" />
       <File FileName="Data/AuthRepository.cs" />
       <File FileName="Program.cs" />
-      <File FileName="Data/IDatingRepository.cs" Line="14" Column="30" />
+      <File FileName="Data/IDatingRepository.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DatingApp.API" expanded="True">
             <Node name="DatingApp.API" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True">
-                <Node name="IDatingRepository.cs" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="AuthController.cs" selected="True" />
               </Node>
+              <Node name="Data" expanded="True" />
               <Node name="Migrations" expanded="True" />
               <Node name="Models" expanded="True" />
             </Node>
