@@ -49,9 +49,12 @@
         <e p="20191006005026_photo_update.Designer.cs" t="Include" />
         <e p="20191007042248_photoPublicId.cs" t="Include" />
         <e p="20191007042248_photoPublicId.Designer.cs" t="Include" />
+        <e p="20191020213359_LikeEntity.cs" t="Include" />
+        <e p="20191020213359_LikeEntity.Designer.cs" t="Include" />
         <e p="DataContextModelSnapshot.cs" t="Include" />
       </e>
       <e p="Models" t="Include">
+        <e p="Like.cs" t="Include" />
         <e p="Photo.cs" t="Include" />
         <e p="User.cs" t="Include" />
         <e p="Value.cs" t="Include" />
