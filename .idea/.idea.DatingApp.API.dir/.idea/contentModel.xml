@@ -7,6 +7,7 @@
       <e p="bin" t="ExcludeRecursive" />
       <e p="Controllers" t="Include">
         <e p="AuthController.cs" t="Include" />
+        <e p="MessagesController.cs" t="Include" />
         <e p="PhotosController.cs" t="Include" />
         <e p="UsersController.cs" t="Include" />
         <e p="ValuesController.cs" t="Include" />
@@ -22,6 +23,8 @@
       </e>
       <e p="DatingApp.API.csproj" t="IncludeRecursive" />
       <e p="Dtos" t="Include">
+        <e p="MessageForCreationDto.cs" t="Include" />
+        <e p="MessageToReturnDto.cs" t="Include" />
         <e p="PhotoForCreationDto.cs" t="Include" />
         <e p="PhotoForDetailedDto.cs" t="Include" />
         <e p="PhotoForReturnDto.cs" t="Include" />
@@ -36,6 +39,7 @@
         <e p="CloudinarySettings.cs" t="Include" />
         <e p="Extensions.cs" t="Include" />
         <e p="LogUserActivity.cs" t="Include" />
+        <e p="MessageParams.cs" t="Include" />
         <e p="PagedList.cs" t="Include" />
         <e p="PaginationHeader.cs" t="Include" />
         <e p="UserParams.cs" t="Include" />
@@ -51,10 +55,13 @@
         <e p="20191007042248_photoPublicId.Designer.cs" t="Include" />
         <e p="20191020213359_LikeEntity.cs" t="Include" />
         <e p="20191020213359_LikeEntity.Designer.cs" t="Include" />
+        <e p="20191021000525_MessageEntity.cs" t="Include" />
+        <e p="20191021000525_MessageEntity.Designer.cs" t="Include" />
         <e p="DataContextModelSnapshot.cs" t="Include" />
       </e>
       <e p="Models" t="Include">
         <e p="Like.cs" t="Include" />
+        <e p="Message.cs" t="Include" />
         <e p="Photo.cs" t="Include" />
         <e p="User.cs" t="Include" />
         <e p="Value.cs" t="Include" />
